@@ -1,7 +1,6 @@
-# Submission 1: Nama Proyek Anda
-Nama: Istia Budi
-
-Username dicoding: istiabudi73
+# Submission 1: Email Classification
+Nama: Zhulkhoir Rifat
+Username dicoding: zhulkhoirrifat
 
 | | Deskripsi |
 | ----------- | ----------- |
